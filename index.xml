@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew is Testing</title>
-    <link>mrsalta.github.io/</link>
+    <link>/</link>
     <description>Recent content on Andrew is Testing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Jan 2019 09:51:28 -0800</lastBuildDate>
     
-	<atom:link href="mrsalta.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>mrsalta.github.io/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Wed, 23 Jan 2019 09:51:28 -0800</pubDate>
       
-      <guid>mrsalta.github.io/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Hello, world! Everything is awesome.</description>
     </item>
     
